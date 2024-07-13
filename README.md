@@ -3,7 +3,7 @@
 I am an **upcoming web developer** with a foundation in programming from a tertiary institution. I have experience with programming languages like **C++**, **MySQL**, and **PL/SQL**. 
 
 ### Currently, I am 📚:
-- Expanding my skills in **Angular** using **JavaScript**
+- Expanding my skills in **Angular** using **TypeScript**
 - Mastering the fundamentals of **HTML**, **CSS**, and **Bootstrap**
 
 ### Enthusiastic about 🚀:
